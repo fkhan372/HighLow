@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"highlow","l":"HighLow"},{"p":"highlow","l":"IncorrectController"},{"p":"highlow","l":"MenuController"},{"p":"highlow","l":"NewGameController"},{"p":"highlow","l":"RulesController"}];updateSearchResults();
